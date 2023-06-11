@@ -22,7 +22,7 @@ export default sidebar({
                 },
                 {
                   text: "前端开发",
-                  icon: "qianduankaifa",
+                  icon: "web",
                   prefix: "web/",
                   link: "web/",
               },

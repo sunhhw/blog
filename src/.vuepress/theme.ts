@@ -17,7 +17,7 @@ export default hopeTheme({
     // 默认：
     "//at.alicdn.com/t/c/font_2410206_5vb9zlyghj.css",
     // 自己的
-    "//at.alicdn.com/t/c/font_4108915_f1j5nerhj6l.css",
+    "//at.alicdn.com/t/c/font_4108915_eiss1ozdtm6.css",
   ],
 
   logo: "/logo.png",

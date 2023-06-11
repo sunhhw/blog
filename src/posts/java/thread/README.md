@@ -3,9 +3,11 @@ title: 多线程
 timeline: false
 index: false
 article: false
-icon: laptop-code
+icon: yidongyunkongzhitaiicon41
+dir:
+  order: 2
 category:
-- thread
+    - thread
 ---
 
 ## 目录

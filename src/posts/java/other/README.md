@@ -3,9 +3,11 @@ title: 其他
 timeline: false
 index: false
 article: false
-icon: laptop-code
+icon: qita
+dir:
+  order: 5
 category:
-- 其他
+    - 其他
 ---
 
 ## 目录
